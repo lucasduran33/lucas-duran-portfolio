@@ -1,0 +1,51 @@
+.container{
+    background-color: black;
+    color:white;
+    
+}
+.desccontainer{
+    display:flex;
+    flex-direction: row;
+     padding: 5px;
+}
+.title ,.description{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+padding:15px
+}
+
+.imgpoke{
+    object-fit: cover;
+    width:50%;
+    height: 100%;
+}
+
+.textdesc{
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+padding: 15px;
+}
+@media only screen and (max-width: 960px){
+    .container{
+        width: 100%;
+        padding: 10px;
+    }
+   .imgpoke{
+    object-fit: cover;
+width: 100%;
+
+   }
+    .desccontainer{
+        flex-direction: column;
+        padding:0;
+        width: 100%;
+        
+    }
+    .textdesc{
+        flex-direction:column;
+    }
+    }
