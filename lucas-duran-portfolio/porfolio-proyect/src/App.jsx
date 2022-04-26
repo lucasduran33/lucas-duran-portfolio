@@ -4,6 +4,7 @@ import Home from './components/Home/Home';
 import Pokemon from './components/Proyects/Pokemon/Pokemon';
 import PetCare from './components/Proyects/Pet-care/Petcare'
 import WeatherApp from './components/Proyects/Weatherapp/Weatherapp'
+import Lama from './components/Proyects/Lama/Lama';
 import './App.css'
 function App() {
   const [scroll, setScroll] = useState(0)
@@ -22,6 +23,7 @@ useEffect(()=> {
    
    <Routes>
    <Route path={'/'} element={<Home/>}/>
+   <Route path={'/lamaecommerce'} element={<Lama/>}/>
      <Route path={'/pokemonproyect'} element={<Pokemon/>}/>
      <Route path={'/pet-care'} element={<PetCare/>}/>
      <Route path={'/weather-app'} element={<WeatherApp/>}/>

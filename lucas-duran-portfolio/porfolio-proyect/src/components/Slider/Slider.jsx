@@ -4,7 +4,7 @@ import imgpoke from '../../media/pokemon-api-img.jpg'
 import imgpetcare from '../../media/dogs.jpg'
 import imgweatherapp from '../../media/lluvia.jpg'
 import {Link} from 'react-router-dom'
-
+import lamaeco from  '../../media/lamaeco.jpg'
 
 
 export default function Slider () {
@@ -50,7 +50,16 @@ export default function Slider () {
         </div>
     </div>
   
-  
+    <div className='containercard'>
+        <div className='cards'>
+            <Link to='/lamaecommerce'>
+        <img className='imgcard'src='https://media.vogue.es/photos/5cc751ab8f6f675e1f5beb72/master/w_1600,c_limit/moda_tendencias_voguees_965319015.jpg' alt='pokeimg' />
+            </Link>
+        </div>
+        <div className='desclider'>
+            <span>Lama E-commerce</span>
+        </div>
+    </div>
 
 
 </div>

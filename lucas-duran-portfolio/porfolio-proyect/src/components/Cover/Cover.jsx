@@ -2,6 +2,7 @@ import react from 'react'
 import './Cover.css'
 import coverimg from '../../media/cover.jpg'
 import curriculum from '../../media/cvcv.pdf'
+import englishcv from '../../media/cvcv.pdf'
 export default function Cover () {
 
 
@@ -15,7 +16,11 @@ export default function Cover () {
       <a 
       href={curriculum}
       download='Lucas-Duran-Cv'
-      className='Pcurriculum'>Descargar Cv</a>
+      className='Pcurriculum'>CV en español</a>
+       <a 
+      href={englishcv}
+      download='Lucas-Duran-Cv'
+      className='Pcurriculum'>CV in english</a>
         </div>
     )
 }

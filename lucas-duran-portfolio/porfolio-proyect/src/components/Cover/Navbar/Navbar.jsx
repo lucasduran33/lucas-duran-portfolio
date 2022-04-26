@@ -8,7 +8,7 @@ function toTheTop () {
     return (
         <nav className={`navbar ${isScrolling > 20 ? 'scrolling' : null}`}>
             <div>
-<div className='navbar-logo' onClick={toTheTop}>Lucas Duran</div>
+<div className='navbar-logo' onClick={toTheTop}>Idioma</div>
             </div>
         </nav>
     )
