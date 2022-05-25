@@ -6,14 +6,14 @@ export default function Footer () {
         <footer className='footer'>
             <div className='footer-info'>
                 <h1>Lucas Duran</h1>
-                <p>Full Stack Developer</p>
+                <p className='footertwo'>Full Stack Developer</p>
             </div>
 <div className='footer-contact'>
     <h3>Puedes contactarme</h3>
 </div>
 <div className='footer-sms'>
 <div className='design-by'>
-<p>Para saber mas sobre mi</p>
+<p className='footertwo'>Para saber mas sobre mi</p>
 </div>
 <div className='sms-links'>
 <a href='https://www.linkedin.com/in/lucasduran33/' target="_blank">

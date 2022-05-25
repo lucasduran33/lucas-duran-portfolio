@@ -9,8 +9,9 @@ export default function Skills () {
          <div className='competencias'>
             <h2 >Competencias</h2>
             <p>
-            &nbsp;&nbsp;&nbsp;Desarrolle una web App en un equipo de 8 miembros llevado a cabo con metodologias agiles SCRUM, con sprint semanales y un owner product que guiaba el proyecto. Con mi equipo cumplimos los sprint semanales y recibimos buenos feedbacks. Trabaje en el front-end y un poco en el back-end
-<p>  &nbsp;&nbsp;&nbsp;Lideré un grupo de mas de 10 personas como Teacher Assitant, en esa experiencia pude desenvolver mis capacidades de enseñanza y transmisión de los conocimientos a la forma práctica. Ya que mi labor consistia en aclarar dudas y guiar durante sus primeros pasos en programacion web al grupo. Me gustó mucho el feedback que recibí de mis compañeros y me motiva a seguir brindando ayuda y soporte en el futuro.</p>
+            &nbsp;&nbsp;&nbsp;<h4 className='parrafo-skills'>Desarrolle una web App en un equipo de 8 miembros llevado a cabo con metodologias agiles SCRUM.</h4> El proceso del proyecto contenia  sprint semanales y un owner product que guiaba el equipo  cumplimos los sprint semanales y recibimos buenos feedbacks. Trabaje en el front-end y un poco en el back-end
+<p>  &nbsp;&nbsp;&nbsp;
+  <h4 className='parrafo-skills'>Lideré un grupo de mas de 10 personas como Teacher Assitant</h4>  &nbsp; En esta experiencia pude desenvolver mis capacidades de enseñanza y transmisión de los conocimientos a la forma práctica. Ya que mi labor consistia en aclarar dudas y guiar durante sus primeros pasos en programacion web al grupo. Me gustó mucho el feedback que recibí de mis compañeros y me motiva a seguir brindando ayuda y soporte en el futuro.</p>
             </p>
             </div>
 <div>

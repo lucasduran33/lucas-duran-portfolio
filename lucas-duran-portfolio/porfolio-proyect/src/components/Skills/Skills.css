@@ -20,6 +20,10 @@
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
     grid-template-rows: 1fr;
 }
+.parrafo-skills{
+    padding:1px;
+   color:rgb(58, 183, 255);
+}
 .desc-tec{
     font-size: 18px;
     font-weight: bold;

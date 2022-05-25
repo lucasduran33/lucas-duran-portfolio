@@ -7,13 +7,15 @@ return (
       <div>
         <div className="about-desc">
             <h3>Sobre mí</h3>
-            <p>Hola, soy Lucas, de Argentina. 
+            <h4 className="parrafo-unico">Hola, soy Lucas, de Argentina. 
 
-            </p>
+            </h4>
             <p>
-            &nbsp;&nbsp;&nbsp; un software engineer con un amplio stack de tecnologias actuales tanto en el FrontEnd como en BackEnd y conocimiento en base de datos tales como SQL.
-
+            &nbsp;&nbsp;&nbsp; Un software engineer con un amplio stack de tecnologias actuales tanto en el FrontEnd como en BackEnd y conocimiento en base de datos tales como SQL.
+<h4 className="parrafo-unico">
 Te presento mi perfil full Stack que marcará la diferencia en tu equipo de trabajo.
+</h4>
+
 
               </p>  
               <p>
