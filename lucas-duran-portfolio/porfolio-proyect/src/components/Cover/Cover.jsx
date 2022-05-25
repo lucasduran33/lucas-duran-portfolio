@@ -1,8 +1,10 @@
 import react from 'react'
 import './Cover.css'
 import coverimg from '../../media/cover.jpg'
+import vainilla from '../../media/vainilla.jpg'
+
 import curriculum from '../../media/cvcv.pdf'
-import englishcv from '../../media/cvcv.pdf'
+import englishcv from '../../media/cvcvcv.pdf'
 export default function Cover () {
 
 
@@ -10,9 +12,9 @@ export default function Cover () {
 
     return (
         <div className='cover-container'>
-      <img className='image' src={coverimg}/>
+      <img className='image' src={vainilla}/>
       <h1>Lucas Duran</h1>
-      <p>Full Stack Developer | Front-End</p>
+      <p>Software Engineer  ||  Full Stack Developer </p>
       <a 
       href={curriculum}
       download='Lucas-Duran-Cv'

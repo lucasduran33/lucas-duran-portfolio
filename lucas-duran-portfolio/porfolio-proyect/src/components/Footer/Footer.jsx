@@ -10,7 +10,6 @@ export default function Footer () {
             </div>
 <div className='footer-contact'>
     <h3>Puedes contactarme</h3>
-  
 </div>
 <div className='footer-sms'>
 <div className='design-by'>
@@ -23,7 +22,6 @@ export default function Footer () {
 <a href='https://github.com/lucasduran33' target="_blank">
 <i className='fab fa-github github'></i>
 </a>
-
 </div>
 </div>
         </footer>

@@ -9,9 +9,8 @@ export default function Skills () {
          <div className='competencias'>
             <h2 >Competencias</h2>
             <p>
-            &nbsp;&nbsp;&nbsp;Me considero una persona sociable, empática y me adapto rápidamente a mis nuevos desafíos.
-Poseo conocimientos sobre la metodologia SCRUM.  
-<p>  &nbsp;&nbsp;&nbsp;Lideré un grupo de 8 personas como Teacher Assitant, en esa experiencia pude desenvolver mis capacidades de enseñanza y transmisión de los conocimientos a la forma práctica. Me gustó mucho el feedback que recibí de mis compañeros y me motiva a seguir brindando ayuda y soporte en el futuro.</p>
+            &nbsp;&nbsp;&nbsp;Desarrolle una web App en un equipo de 8 miembros llevado a cabo con metodologias agiles SCRUM, con sprint semanales y un owner product que guiaba el proyecto. Con mi equipo cumplimos los sprint semanales y recibimos buenos feedbacks. Trabaje en el front-end y un poco en el back-end
+<p>  &nbsp;&nbsp;&nbsp;Lideré un grupo de mas de 10 personas como Teacher Assitant, en esa experiencia pude desenvolver mis capacidades de enseñanza y transmisión de los conocimientos a la forma práctica. Ya que mi labor consistia en aclarar dudas y guiar durante sus primeros pasos en programacion web al grupo. Me gustó mucho el feedback que recibí de mis compañeros y me motiva a seguir brindando ayuda y soporte en el futuro.</p>
             </p>
             </div>
 <div>
@@ -28,9 +27,10 @@ Poseo conocimientos sobre la metodologia SCRUM.
           <li  className="desc-tec">Framework/Libreria</li>
           <li  className="desc-tec1">React.js</li>
           <li  className="desc-tec1">React-Native</li>
-          <li  className="desc-tec1">Expo</li>
-          <li  className="desc-tec1">Hooks</li>
           <li  className="desc-tec1">Redux</li>
+          <li  className="desc-tec1">Node.js</li>
+          <li  className="desc-tec1">Express</li>
+
           </ul>
           <ul className="desc-list">
           <li  className="desc-tec">Tecnologia Web</li>
@@ -38,14 +38,16 @@ Poseo conocimientos sobre la metodologia SCRUM.
           <li  className="desc-tec1">CSS3</li>
           <li  className="desc-tec1">Tailwind</li>
           <li  className="desc-tec1">Bootstrap</li>
+          <li  className="desc-tec1">Styled-Components</li>
+
      </ul>
  <ul className="desc-list">
           <li  className="desc-tec">Base de Datos</li>
           <li  className="desc-tec1">PostgreSQL</li>
           <li  className="desc-tec1">Sequalize</li>
           <li  className="desc-tec1">SQL</li>
-          <li  className="desc-tec1">Node.js</li>
-          <li  className="desc-tec1">Express</li>
+          <li  className="desc-tec1">MongoDb</li>
+
           </ul>
           <ul className="desc-list">
           <li  className="desc-tec">Version Control</li>

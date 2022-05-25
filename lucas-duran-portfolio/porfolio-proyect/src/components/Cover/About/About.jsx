@@ -7,16 +7,20 @@ return (
       <div>
         <div className="about-desc">
             <h3>Sobre mí</h3>
-            <p>Hola, soy Lucas, de Argentina. Estoy graduado recientemente del Bootcamp de SoyHenry.
+            <p>Hola, soy Lucas, de Argentina. 
 
             </p>
             <p>
-            &nbsp;&nbsp;&nbsp; Estoy en busca de mi primer trabajo en el m GBundo IT!. Poseo los conocimientos para aplicar como un Full Stack Dev. Tengo preferencias por el Front-End, ya que es el campo que me apasiona y del que mas aprendí, sin embargo, tanto el Back-end como el Front me gustan por su lógica y  forma de desarrollo.
+            &nbsp;&nbsp;&nbsp; un software engineer con un amplio stack de tecnologias actuales tanto en el FrontEnd como en BackEnd y conocimiento en base de datos tales como SQL.
+
+Te presento mi perfil full Stack que marcará la diferencia en tu equipo de trabajo.
 
               </p>  
               <p>
-              &nbsp;&nbsp;&nbsp; Me gustaría encontrar una empresa en donde afianzar mis conocimientos y aprender nuevas tecnologías ya que me encanta estar en constante crecimiento profesional. 
-
+              &nbsp;&nbsp;&nbsp; Despues de 8 meses de estudio intensivo de programacion y aprendizaje del lenguaje de programacion Javascript puedo afirmar que tengo la capacidad para adaptarme y que la exigencia siempre sea un estimulo.
+ Mis primeras experiencias mostrando mis proyectos a mis mentores fueron de feedbacks positivos. 
+ Fui recomendado por miembros de mi equipo de mi proyecto final en el bootcamp SoyHenry donde trabajabamos con metodologia agil
+ Estuve ejerciendo como profesor asistente de un grupo de iniciantes en donde por mas de 2 meses asistí y aclare dudas sobre temas como React, Express, SQL y Javascript.
 
               </p>
         </div>

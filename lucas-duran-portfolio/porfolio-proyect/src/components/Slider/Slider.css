@@ -69,11 +69,10 @@
    
 }
 .proyectscards{
-  
-   padding-bottom: 40px;
+
+padding-bottom: 40px;
     display:flex;
-    flex-direction: row;
- 
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 .containercard{
@@ -81,7 +80,7 @@
     justify-content: center;
     margin:auto;
     flex:1;
-
+margin: 20px;
     height:380px;
   
   
@@ -119,8 +118,8 @@
     
 }
 .desclider{
-    bottom: 40px;
-    left: 60px;
+    bottom: 20px;
+    left: 50px;
     position: relative;
     color: white;
     display:block;
