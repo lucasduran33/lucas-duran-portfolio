@@ -12,7 +12,7 @@ export default function Cover () {
 
     return (
         <div className='cover-container'>
-      <img className='image' src={vainilla}/>
+      <img className='image' src={coverimg}/>
       <h1>Lucas Duran</h1>
       <p>Software Engineer  ||  Full Stack Developer </p>
       <a 
