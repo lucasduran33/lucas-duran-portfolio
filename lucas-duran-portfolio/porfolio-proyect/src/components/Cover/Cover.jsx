@@ -3,8 +3,8 @@ import './Cover.css'
 import coverimg from '../../media/cover.jpg'
 import vainilla from '../../media/vainilla.jpg'
 
-import curriculum from '../../media/cvcv.pdf'
-import englishcv from '../../media/cvcvcv.pdf'
+import curriculum from '../../media/Lucas-DuranEs.pdf'
+import englishcv from '../../media/Lucas-DuranEn.pdf'
 export default function Cover () {
 
 
