@@ -3,8 +3,8 @@ import './Cover.css'
 import coverimg from '../../media/cover.jpg'
 import vainilla from '../../media/vainilla.jpg'
 
-import curriculum from '../../media/Lucas-DuranEs.pdf'
-import englishcv from '../../media/Lucas-DuranEn.pdf'
+import curriculum from '../../media/CVLucasDuranES.pdf'
+import englishcv from '../../media/CVLucasDuranEN.pdf'
 export default function Cover () {
 
 
@@ -17,11 +17,11 @@ export default function Cover () {
       <p>Software Engineer  ||  Full Stack Developer </p>
       <a 
       href={curriculum}
-      download='Lucas-Duran-Cv'
+      download='Lucas-DuranEs'
       className='Pcurriculum'>CV en español</a>
        <a 
       href={englishcv}
-      download='Lucas-Duran-Cv'
+      download='Lucas-DuranEn'
       className='Pcurriculum'>CV in english</a>
         </div>
     )
